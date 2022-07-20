@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;700&display=swap');
+
+
+.movie{
+  padding: 1rem;
+  height: auto;
+  width: 300px;
+}
+
+.movie img{
+  width:100%;
+}
+main{
+  display: flex;
+  flex-wrap:wrap;
+  justify-content: center;
+  
+ }
+
+
+.movie-info h3{
+  text-align: center;
+  font-size: large;
+  font-weight: bold;
+}
